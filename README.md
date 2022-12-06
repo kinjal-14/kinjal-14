@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kinjal Kunjadiya</h1>
 <h3 align="center">A passionate Frontend Developer from Montreal, Quebec.</h3>
-<img align=“right” alt=“Profile” width=“400” src=“https://images.app.goo.gl/L7PwC1TjSdym6vsF9”>
-<div class="tenor-gif-embed" data-postid="25868426" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/programming-gif-25868426">Programming GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align=“right” alt=“Profile” width=“400” src=“[https://images.app.goo.gl/L7PwC1TjSdym6vsF9](https://www.google.com/imgres?imgurl=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--2bZIjPGC--%2Fc_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fd4tvukbt5mra37cvwklk.gif&imgrefurl=https%3A%2F%2Fdev.to%2Fmindninjax%2Fhow-to-become-an-effective-programmer-5a00&tbnid=2cDstkyrK89TEM&vet=10CCAQxiAoCGoXChMI8M2rgNHl-wIVAAAAAB0AAAAAEAc..i&docid=W9kfUvxTM16KhM&w=800&h=600&itg=1&q=animated%20coding%20gif&ved=0CCAQxiAoCGoXChMI8M2rgNHl-wIVAAAAAB0AAAAAEAc#imgrc=2cDstkyrK89TEM&imgdii=Ixy9lyvDt_4DtM)”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kinjal-14&label=Profile%20views&color=0e75b6&style=flat" alt="kinjal-14" /> </p>
 
