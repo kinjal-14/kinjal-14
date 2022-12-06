@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kinjal Kunjadiya</h1>
 <h3 align="center">A passionate Frontend Developer from Montreal, Quebec.</h3>
-<div class="tenor-gif-embed" data-postid="24991316" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316">Scaler Create Impact GIF</a>from <a href="https://tenor.com/search/scaler-gifs">Scaler GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" alt="Coding" width="400" src="photos.google.com/photo/AF1QipPZKx7qQ25w2sPC9VNh5AmsIxWM5dn6kztiHkKo">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kinjal-14&label=Profile%20views&color=0e75b6&style=flat" alt="kinjal-14" /> </p>
 
